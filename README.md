@@ -29,3 +29,6 @@ Re-architecting of the Test Directory can solve a lot of these problems, making 
 - Research
 
 This is a work in progress.
+
+### We've started a [list of APIs](api_list.md) which we hope to add to soon, to start putting together a description of the required architecture.
+
